@@ -1,0 +1,38 @@
+{
+  "name": "grunt-css-svg-embed",
+  "description": "Convert SVGs linked as URL's in your CSS to strings inside your style sheet",
+  "version": "0.0.1",
+  "homepage": "https://github.com/steverichey/grunt-css-svg-embed",
+  "author": {
+    "name": "Steve Richey",
+    "email": "contact@steverichey.com",
+    "url": "http://www.steverichey.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/steverichey/grunt-css-svg-embed.git"
+  },
+  "bugs": {
+    "url": "https://github.com/steverichey/grunt-css-svg-embed/issues"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/steverichey/grunt-css-svg-embed/blob/master/license.md"
+  }],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    
+  },
+  "keywords": [
+    "gruntplugin",
+    "image",
+    "svg",
+    "string",
+    "encode",
+    "embed",
+    "css",
+    "url"
+  ]
+}
