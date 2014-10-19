@@ -32,3 +32,11 @@ csssvgembed: {
   }
 }
 ```
+
+# Version History
+
+Currently WIP. Use at your own risk!
+
+# License
+
+Shared under an MIT license. See [license.md](https://github.com/steverichey/grunt-css-svg-embed/blob/master/license.md) for details.
