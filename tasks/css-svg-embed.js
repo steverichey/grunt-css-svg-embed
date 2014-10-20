@@ -3,7 +3,7 @@ module.exports = function(grunt) {
         // nothing yet!
     }
     
-    grunt.registerMultiTask('csssvgembed', "Convert SVGs linked as URL's in your CSS to strings inside your style sheet", function() {
+    grunt.registerMultiTask('csssvgembed', "Convert SVGs linked as URLs in your CSS to strings inside your style sheet", function() {
         var async = this.async();
         
         var options = this.options({
