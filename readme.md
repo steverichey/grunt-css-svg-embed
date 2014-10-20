@@ -39,4 +39,4 @@ Currently WIP. Use at your own risk!
 
 # License
 
-Shared under an MIT license. See [license.md](./blob/master/license.md) for details.
+Shared under an MIT license. See [license.md](./license.md) for details.
