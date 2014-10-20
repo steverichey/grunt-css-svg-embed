@@ -1,7 +1,7 @@
 grunt-css-svg-embed
 ===================
 
-Convert SVGs linked as URL's in your CSS to strings inside your style sheet
+Convert SVGs linked as URLs in your CSS to strings inside your style sheet.
 
 # Getting Started
 
