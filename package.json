@@ -1,6 +1,6 @@
 {
   "name": "grunt-css-svg-embed",
-  "description": "Convert SVGs linked as URL's in your CSS to strings inside your style sheet",
+  "description": "Convert SVGs linked as URLs in your CSS to strings inside your style sheet.",
   "version": "0.0.1",
   "homepage": "https://github.com/steverichey/grunt-css-svg-embed",
   "author": {
